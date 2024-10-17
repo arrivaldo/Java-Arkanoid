@@ -2,7 +2,7 @@
 
 A classic **Arkanoid** (brick-breaker) game developed in Java. The player controls a paddle to bounce a ball and break bricks. The game offers multiple levels, power-ups, and challenging gameplay.
 
-![Arkanoid Game Screenshot](./assets/arkanoid-screenshot.png)
+![Arkanoid Game Screenshot](./arkanoid.png)
 
 ## Table of Contents
 - [Features](#features)
