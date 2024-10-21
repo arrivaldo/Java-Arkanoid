@@ -15,12 +15,10 @@ A classic **Arkanoid** (brick-breaker) game developed in Java. The player contro
 
 ## Features
 - Multiple levels with increasing difficulty
-- Power-ups (extend paddle, extra balls, etc.)
 - Realistic ball physics
 - Sound effects and background music
 - Score tracking and lives system
 - Pause and resume functionality
-- Customizable gameplay settings
 
 ## Installation
 
